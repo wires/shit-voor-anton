@@ -1,0 +1,55 @@
+
+type transition = {
+  pre: list(int),
+  post: list(int)
+}
+
+let decode : list(int) => list(transition) = ...
+
+// js [pre,post] => ({pre,post})
+
+h_([],x) : list(list(list(int)))
+
+[ [pre,post] ] ~
+pre/post : list(int)
+[pre,post] : list(list(int))
+
+
+type accT = list(..)
+type xT = list(int)
+
+let append : (a, [a]) => [a]
+
+let h_ : (list(..), list(int)) => list(list(list(int))) 
+
+type acc = list(x) where x = type of cd
+
+type of cd = type of first element of f(x) type of x = list(int)
+
+let f : list(int) => 
+
+g = splitwehn(equald(0))
+
+let splitWhen : ((a => bool), list(a)) => list(list(a)) // [[a], [a]]
+
+know that splitWhen(equal(0) : list(a) => list(list(a))
+
+let g : list(int) => list(list(int))    (we know, list(list(int)) ~= [list(int), list(int)], ie. size 2 tuple)
+
+let c : list(int)
+r1 : list(int)
+
+
+
+[@bs.module "./net.js"] 
+
+
+
+
+
+
+
+
+
+
+
